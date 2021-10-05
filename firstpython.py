@@ -1,3 +1,3 @@
 
-#write here
+#write here something
 print("Hello Ajay")
